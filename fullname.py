@@ -1,0 +1,5 @@
+print("WHAT'S MY NAME? WHAT'S MY NAME?")
+print("FIRST NAME:", "ROMALYN")
+print("MIDDLE NAME:", "BUBLO")
+print("LAST NAME:", "FLORANDA")
+print("FULL NAME:", "ROMALYN BUBLO FLORANDA")
